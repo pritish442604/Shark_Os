@@ -1,2 +1,2 @@
 
-shark-os
+shark
